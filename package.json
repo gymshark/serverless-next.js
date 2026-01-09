@@ -45,7 +45,7 @@
     "prettier": "^1.17.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "serverless": "^1.51.0",
+    "serverless": "^4.30.0",
     "serverless-offline": "^4.10.0"
   },
   "jest": {
